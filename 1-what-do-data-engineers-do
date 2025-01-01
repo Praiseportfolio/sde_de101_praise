@@ -1,1 +1,15 @@
+# Imagine that you are hired to enable data analytics; where would you start?
+
+As a data engineer, I would be able to enable data analytics by starting with gathering appropriate requirements.
+
+# How would you go about gathering requirements?
+
+Identify the end-users such as the data scientist, data analyst, external clients and stakeholders.
+
+Defining and understanding the scope of the requirement by;
+-Highlighting how having a dataset can enable data analytics.
+-Recognizing the source of the dataset that can enable data analytics.
+-Collecting and Integrating datasets to enable data analytics.
+-Transforming a dataset into a usable format for the end users.
+-Storing and managing datasets to enable analytics.
 
